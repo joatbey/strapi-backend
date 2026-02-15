@@ -25,7 +25,7 @@
       "required": true
     },
     "content": {
-      "type": "richtext"
+      "type": "blocks"
     },
     "projectStatus": {
       "type": "enumeration",
